@@ -1,6 +1,6 @@
 # SkillCrafters
 
-![![SkillCrafters Logo](path/to/Designer (72).jpeg)](path/to/Designer (72).jpeg)
+![SkillCrafters Logo](Designer%20%2872%29.jpeg)
 
 Welcome to **SkillCrafters**, your ultimate destination for mastering web development, UI/UX design, and Data Structures & Algorithms (DSA). Our mission is to provide high-quality resources and structured learning paths to help you excel in the tech industry.
 
@@ -51,3 +51,10 @@ For any questions, suggestions, or feedback, feel free to reach out to us:
 Become a part of the SkillCrafters community and start crafting your future today! Explore our resources, follow our roadmaps, and enhance your skills in web development, UI/UX design, and DSA.
 
 ##  SkillCrafters - Crafting skills for a better tomorrow.
+
+## 🔥 Featured on Academic Pal 2.0
+
+
+
+
+
