@@ -1,6 +1,6 @@
 # SkillCrafters
 
-![SkillCrafters Logo](Designer (72).jpeg)
+![SkillCrafters Logo](path/to/Designer (72).jpeg)
 
 Welcome to **SkillCrafters**, your ultimate destination for mastering web development, UI/UX design, and Data Structures & Algorithms (DSA). Our mission is to provide high-quality resources and structured learning paths to help you excel in the tech industry.
 
