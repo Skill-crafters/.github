@@ -1,6 +1,6 @@
 # SkillCrafters
 
-![SkillCrafters Logo](path/to/Designer (72).jpeg)
+![![SkillCrafters Logo](path/to/Designer (72).jpeg)](path/to/Designer (72).jpeg)
 
 Welcome to **SkillCrafters**, your ultimate destination for mastering web development, UI/UX design, and Data Structures & Algorithms (DSA). Our mission is to provide high-quality resources and structured learning paths to help you excel in the tech industry.
 
@@ -45,7 +45,7 @@ Once your changes are ready, submit a pull request to our main repository.
 For any questions, suggestions, or feedback, feel free to reach out to us:
 
 ## Email: contact@skillcrafters.com
-## Website: SkillCrafters
+## Website: skillcrafters.onrender.com
 ## GitHub Issues: Create an Issue
 ## 🎉 Join Us
 Become a part of the SkillCrafters community and start crafting your future today! Explore our resources, follow our roadmaps, and enhance your skills in web development, UI/UX design, and DSA.
