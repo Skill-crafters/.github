@@ -1,6 +1,6 @@
 # SkillCrafters
 
-![SkillCrafters Logo](Designer%10%2272%24.jpeg)
+<img src="Designer%20%2872%29.jpeg" alt="SkillCrafters Logo" width="200" height="200">
 
 Welcome to **SkillCrafters**, your ultimate destination for mastering web development, UI/UX design, and Data Structures & Algorithms (DSA). Our mission is to provide high-quality resources and structured learning paths to help you excel in the tech industry.
 
@@ -20,7 +20,7 @@ Follow our structured roadmaps to navigate through your learning journey. Our ro
 To get started with SkillCrafters, simply explore our repositories and resources. Here are a few steps to help you begin:
 
 ### Explore the Content:
-Navigate through the repository to find tutorial videos, notes, and roadmaps for your desired topic.
+Navigate through the repository to find tutoriaSl videos, notes, and roadmaps for your desired topic.
 
 ### Follow the Roadmaps:
 Start with the beginner roadmap and progress through the intermediate and advanced levels.
